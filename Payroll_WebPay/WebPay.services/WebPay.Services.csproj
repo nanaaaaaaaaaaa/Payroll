@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\WebPay.Entity\WebPay.Entity.csproj" />
+    <ProjectReference Include="..\WebPay.Persistence\WebPay.Persistence.csproj" />
   </ItemGroup>
 
 </Project>

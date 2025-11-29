@@ -18,4 +18,9 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WebPay.Entity\WebPay.Entity.csproj" />
+    <ProjectReference Include="..\WebPay.services\WebPay.Services.csproj" />
+  </ItemGroup>
+
 </Project>
