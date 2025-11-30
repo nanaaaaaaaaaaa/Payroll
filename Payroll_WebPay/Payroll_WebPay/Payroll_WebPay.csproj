@@ -23,4 +23,8 @@
     <ProjectReference Include="..\WebPay.services\WebPay.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+
 </Project>

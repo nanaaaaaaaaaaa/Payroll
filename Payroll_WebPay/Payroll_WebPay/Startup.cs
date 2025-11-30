@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Payroll_WebPay.Data;
+using Payroll_WebPay.Persistence;
 using Payroll_WebPay.Models;
 using Payroll_WebPay.Services;
 
